@@ -1,3 +1,20 @@
+# 模型列表
+
+- gpt-5.4
+- gpt-5.3-codex-spark
+- gpt-5.3-codex
+- gpt-5.2-codex
+- gpt-5.2
+- gpt-5.1-codex-mini
+- gpt-5.1-codex-max
+- gpt-5.1-codex
+- gpt-5.1
+- gpt-5
+
+不要使用不在列表中的模型名进行逃费，若被发现，我们将会限制你的账号。
+
+任何不在列表中的模型都会被路由到gpt-5.1，
+
 # Codex 部署教程
 
 本仓库用于整理一套可直接上手的教程：
